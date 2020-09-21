@@ -1,7 +1,6 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @File : 538. 把二叉搜索树转换为累加树.py  @Time : PyCharm -lqj- 2020-9-21 0021
-# Todo  : 
 
 # 二叉树节点的定义。
 class TreeNode:

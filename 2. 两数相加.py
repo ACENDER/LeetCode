@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @File : 2. 两数相加.py  @Time : PyCharm -lqj- 2020-9-20 0020
-# Todo  : 
+
 
 # Definition for singly-linked list.
 class ListNode:

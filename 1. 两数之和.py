@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @File : 1.py  @Time : PyCharm -lqj- 2020-9-20 0020
-# Todo  :
+
 from typing import List
 
 
