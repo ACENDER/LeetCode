@@ -1,6 +1,6 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @File : 78.子集.py  @Time : PyCharm -lqj- 2020-9-20 0020
+# @File : 78. 子集.py  @Time : PyCharm -lqj- 2020-9-20 0020
 
 from typing import List
 

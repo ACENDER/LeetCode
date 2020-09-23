@@ -3,6 +3,7 @@
 # @File : 538. 把二叉搜索树转换为累加树.py  @Time : PyCharm -lqj- 2020-9-21 0021
 
 # 二叉树节点的定义。
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -14,7 +15,7 @@ class Solution:
     def convertBST(self, root: TreeNode) -> TreeNode:
         self.running_sum = 0
 
-        def inorder(node):
+        def inorder(node: TreeNode):
             if not node:
                 return
 
