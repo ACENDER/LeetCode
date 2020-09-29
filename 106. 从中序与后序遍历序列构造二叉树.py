@@ -3,7 +3,7 @@
 # @File : 106. 从中序与后序遍历序列构造二叉树.py  @Time : PyCharm -lqj- 2020-9-25 0025
 from typing import List
 
-Definition for a binary tree node.
+# Definition for a binary tree node.
 class TreeNode:
     def __init__(self, x):
         self.val = x
