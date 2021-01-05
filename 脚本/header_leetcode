@@ -1,0 +1,19 @@
+:authority: leetcode-cn.com
+:method: POST
+:path: /graphql
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+content-length: 229
+content-type: application/json
+cookie: _ga=GA1.2.1371919073.1606893233; gr_user_id=0b5ffdd9-f1c6-4aed-8836-62761e597b8c; grwng_uid=16db7623-e74a-436b-b85f-2785f5ca7c98; __auc=95444f8d1763adee323f808eee6; a2873925c34ecbd2_gr_last_sent_cs1=acender; _gid=GA1.2.1525006155.1609723665; Hm_lvt_fa218a3ff7179639febdb15e372f411c=1609741601,1609753817,1609754430,1609809198; a2873925c34ecbd2_gr_session_id=5a166aaf-200a-4222-9e2f-5b5af1f09534; a2873925c34ecbd2_gr_last_sent_sid_with_cs1=5a166aaf-200a-4222-9e2f-5b5af1f09534; a2873925c34ecbd2_gr_session_id_5a166aaf-200a-4222-9e2f-5b5af1f09534=true; __asc=926cb270176d042341a1977305c; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNTA1NjQ5IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiYXV0aGVudGljYXRpb24uYXV0aF9iYWNrZW5kcy5QaG9uZUF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6IjI2MThmOGQ2Mzc4OWI4NWY2NmU3MjBlOTA3OWZmODg2ZThhYWI2OGMyODAzYmQxMTFjYzcwMzM5ZGIyNDcxYzAiLCJpZCI6NTA1NjQ5LCJlbWFpbCI6IjE2NDE0MjkzMjdAcXEuY29tIiwidXNlcm5hbWUiOiJhY2VuZGVyIiwidXNlcl9zbHVnIjoiYWNlbmRlciIsImF2YXRhciI6Imh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLWNuLmNvbS9hbGl5dW4tbGMtdXBsb2FkL3VzZXJzL2FjZW5kZXIvYXZhdGFyXzE2MDA2MTAyMjIucG5nIiwicGhvbmVfdmVyaWZpZWQiOnRydWUsIl90aW1lc3RhbXAiOjE2MDk4MTE4MDAuODc2MzUxfQ.qU4xjI20-qF6Ou3d2QFMguav2foMJlj5HwYgZQq59d4; csrftoken=0C1ftWEQL3U5lxJfvNCD3nosgPMDHqUr6txNCOzhAp1WIDimTVFhpRNpsvEXShTu; a2873925c34ecbd2_gr_cs1=acender; Hm_lpvt_fa218a3ff7179639febdb15e372f411c=1609812349
+origin: https://leetcode-cn.com
+referer: https://leetcode-cn.com/problemset/algorithms/
+sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"
+sec-ch-ua-mobile: ?0
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+x-csrftoken: 0C1ftWEQL3U5lxJfvNCD3nosgPMDHqUr6txNCOzhAp1WIDimTVFhpRNpsvEXShTu

@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @File : 批量修改文件名.py  @Time : PyCharm -lqj- 2021-1-4 0004
-
+# 去除文件名的空格
 import os
 
 path = '../题库/'
