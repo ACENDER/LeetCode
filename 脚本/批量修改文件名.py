@@ -4,7 +4,7 @@
 # 去除文件名的空格
 import os
 
-path = '../题库/'
+path = '../A01/'
 file_names = os.listdir(path)
 replaceStr = ' '
 for name in file_names:

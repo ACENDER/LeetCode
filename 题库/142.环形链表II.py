@@ -1,20 +1,3 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @File : 142. 环形链表 II.py  @Time : PyCharm -lqj- 2020-10-10 0010
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-
-class Solution(object):
-    def detectCycle(self, head):
-        fast, slow = head, head
-        while True:
-            if not (fast and fast.next): return
-            fast, slow = fast.next.next, slow.next
-            if fast == slow: break
-        fast = head
-        while fast != slow:
-            fast, slow = fast.next, slow.next
-        return fast
+# @File : 142.环形链表II.py 
